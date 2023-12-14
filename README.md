@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/santmailo](https://github.com/santmailo)
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
+- 💬 Ask me about **HTML CSS JAVASCRIPT REACT@latest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
